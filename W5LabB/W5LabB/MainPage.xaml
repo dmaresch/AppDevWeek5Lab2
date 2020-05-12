@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:local="clr-namespace:W5LabB"
+             mc:Ignorable="d"
+             x:Class="W5LabB.MainPage"
+             BackgroundColor="LightGray">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        
+        <Label Text="{Binding DateTime, StringFormat='{0:T}'}"
+           FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+               Grid.Row="0"
+               Grid.ColumnSpan="2">
+            <Label.BindingContext>
+                <local:ClockViewModel />
+            </Label.BindingContext>
+        </Label>
+        <Image x:Name="image" Aspect="Fill" BindingContext="{x:Reference URLEntry}" Source="{Binding Text}" Grid.Row="1"></Image>
+        <Entry x:Name="URLEntry" Placeholder="Place a URL to an image here!" Grid.Row="2" ></Entry>
+    </Grid>
+    
+
+</ContentPage>

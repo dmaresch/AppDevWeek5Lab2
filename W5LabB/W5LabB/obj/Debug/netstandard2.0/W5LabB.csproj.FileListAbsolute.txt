@@ -1,0 +1,14 @@
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\bin\Debug\netstandard2.0\W5LabB.deps.json
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\bin\Debug\netstandard2.0\W5LabB.dll
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\bin\Debug\netstandard2.0\ref\W5LabB.dll
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\bin\Debug\netstandard2.0\W5LabB.pdb
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\W5LabB.csprojAssemblyReference.cache
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\W5LabB.csproj.CoreCompileInputs.cache
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\W5LabB.AssemblyInfoInputs.cache
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\W5LabB.AssemblyInfo.cs
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\W5LabB.dll
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\ref\W5LabB.dll
+C:\Users\DubDubChan\Source\Repos\W5LabB\W5LabB\W5LabB\obj\Debug\netstandard2.0\W5LabB.pdb
